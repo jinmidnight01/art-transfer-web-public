@@ -1,0 +1,67 @@
+// @font-face {
+//   font-family: "BareunBatangB";
+//   src: url("assets/fonts/BareunBatangB.ttf");
+//   src: local("☺"),
+//   url("fonts/Proxima Nova Light.ttf") format("truetype");
+//   font-weight: normal;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+@font-face {
+  font-family: "BareunBatangB";         
+  src: url("../../../fonts/BareunBatangB.ttf"); 
+}
+
+@font-face {
+  font-family: "BareunBatangL";         
+  src: url("../../../fonts/BareunBatangL.ttf"); 
+}
+
+@font-face {
+  font-family: "BareunBatangM";         
+  src: url("../../../fonts/BareunBatangM.ttf"); 
+}
+
+// @font-face {
+//   font-family: "EBS훈민정음새론L";         
+//   src: url("../../../fonts/EBS훈민정음새론L.ttf"); 
+// }
+
+// @font-face {
+//   font-family: "EBS훈민정음새론R";         
+//   src: url("../../../fonts/EBS훈민정음새론R.ttf") ; 
+// }
+
+// @font-face {
+//   font-family: "EBS훈민정음새론SB";         
+//   src: url("../../../fonts/EBS훈민정음새론SB.ttf"); 
+// }
+
+// @font-face {
+//   font-family: "ulsanjunggu";         
+//   src: url("../../../fonts/ulsanjunggu.ttf"); 
+// }
+
+// @font-face {
+//   font-family: "Room No.703";         
+//   src: url("../../../fonts/Room No.703.ttf"); 
+// }
+
+// @font-face {
+//   font-family: 'Dokrip';
+//   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Dokrip.woff') format('woff');
+// }
+
+@import url(//fonts.googleapis.com/earlyaccess/jejuhallasan.css);
+
+.jejuhallasan * {
+ font-family: 'Jeju Hallasan', cursive;
+}
+
+@font-face {
+  font-family: 'EBSJSKMedium';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/EBSJSKMedium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

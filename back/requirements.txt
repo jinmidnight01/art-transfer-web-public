@@ -1,0 +1,7 @@
+python -m pip install Django
+pip install djangorestframework
+pip install torch
+pip install torchvision
+pip install dominate
+pip install visdom
+pip install wandb

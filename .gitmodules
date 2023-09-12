@@ -1,0 +1,3 @@
+[submodule "back/AI_module"]
+	path = back/AI_module
+	url = https://github.com/Tim3s/KR_painting_cyclegan.git
